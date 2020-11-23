@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="245aa17e-d45a-4f1e-b894-31263a718dc6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kbBdTgrGN7QHk5SRCX840MoUmA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/agent" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.tools">
+    <configuration name="network" type="PythonConfigurationType" factoryName="Python">
+      <module name="battle_red" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/agent" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/agent/dqn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tools" type="PythonConfigurationType" factoryName="Python">
+      <module name="battle_red" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.network" />
+      <item itemvalue="Python.tools" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="245aa17e-d45a-4f1e-b894-31263a718dc6" name="Default Changelist" comment="" />
+      <created>1605959497243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605959497243</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="242" y="47" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606024749678">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="242" y="47" key="#com.intellij.execution.impl.EditConfigurationsDialog/-960.0.960.704/0.0.1440.900@0.0.1440.900" timestamp="1605962209170" />
+    <state x="242" y="64" key="#com.intellij.execution.impl.EditConfigurationsDialog/-960.0.960.704/0.23.1440.780@0.23.1440.780" timestamp="1605959863360" />
+    <state x="242" y="47" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1606024749678" />
+    <state width="939" height="329" key="GridCell.Tab.0.bottom" timestamp="1606031209023">
+      <screen x="0" y="23" width="1440" height="780" />
+    </state>
+    <state width="1419" height="328" key="GridCell.Tab.0.bottom/-960.0.960.704/0.0.1440.900@0.0.1440.900" timestamp="1605982467036" />
+    <state width="1419" height="329" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606025405834" />
+    <state width="1419" height="328" key="GridCell.Tab.0.bottom/1440.59.960.704/0.0.1440.900@0.0.1440.900" timestamp="1606017569932" />
+    <state width="939" height="329" key="GridCell.Tab.0.bottom/1440.82.960.681/0.23.1440.780@0.23.1440.780" timestamp="1606031209023" />
+    <state width="939" height="329" key="GridCell.Tab.0.center" timestamp="1606031209022">
+      <screen x="0" y="23" width="1440" height="780" />
+    </state>
+    <state width="1419" height="328" key="GridCell.Tab.0.center/-960.0.960.704/0.0.1440.900@0.0.1440.900" timestamp="1605982467033" />
+    <state width="1419" height="329" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606025405833" />
+    <state width="1419" height="328" key="GridCell.Tab.0.center/1440.59.960.704/0.0.1440.900@0.0.1440.900" timestamp="1606017569927" />
+    <state width="939" height="329" key="GridCell.Tab.0.center/1440.82.960.681/0.23.1440.780@0.23.1440.780" timestamp="1606031209022" />
+    <state width="939" height="329" key="GridCell.Tab.0.left" timestamp="1606031209022">
+      <screen x="0" y="23" width="1440" height="780" />
+    </state>
+    <state width="1419" height="328" key="GridCell.Tab.0.left/-960.0.960.704/0.0.1440.900@0.0.1440.900" timestamp="1605982467032" />
+    <state width="1419" height="329" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606025405832" />
+    <state width="1419" height="328" key="GridCell.Tab.0.left/1440.59.960.704/0.0.1440.900@0.0.1440.900" timestamp="1606017569926" />
+    <state width="939" height="329" key="GridCell.Tab.0.left/1440.82.960.681/0.23.1440.780@0.23.1440.780" timestamp="1606031209022" />
+    <state width="939" height="329" key="GridCell.Tab.0.right" timestamp="1606031209023">
+      <screen x="0" y="23" width="1440" height="780" />
+    </state>
+    <state width="1419" height="328" key="GridCell.Tab.0.right/-960.0.960.704/0.0.1440.900@0.0.1440.900" timestamp="1605982467034" />
+    <state width="1419" height="329" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606025405834" />
+    <state width="1419" height="328" key="GridCell.Tab.0.right/1440.59.960.704/0.0.1440.900@0.0.1440.900" timestamp="1606017569930" />
+    <state width="939" height="329" key="GridCell.Tab.0.right/1440.82.960.681/0.23.1440.780@0.23.1440.780" timestamp="1606031209023" />
+    <state x="279" y="42" key="SettingsEditor" timestamp="1605959872903">
+      <screen x="0" y="23" width="1440" height="780" />
+    </state>
+    <state x="279" y="42" key="SettingsEditor/-960.0.960.704/0.23.1440.780@0.23.1440.780" timestamp="1605959872903" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1606024875838">
+      <screen x="0" y="23" width="1440" height="780" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.780@0.23.1440.780" timestamp="1606024875838" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1606013759915">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1606013759915" />
+    <state x="442" y="127" width="670" height="676" key="search.everywhere.popup" timestamp="1605961533691">
+      <screen x="0" y="23" width="1440" height="780" />
+    </state>
+    <state x="442" y="127" width="670" height="676" key="search.everywhere.popup/-960.0.960.704/0.23.1440.780@0.23.1440.780" timestamp="1605961533691" />
+  </component>
+</project>
