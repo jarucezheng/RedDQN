@@ -12,7 +12,7 @@
 
 网络结构如下：
 
-<img src="/Users/jaruce/Downloads/未命名文件.png" alt="未命名文件" style="zoom:75%;" />
+<img src="./images/network.png" alt="Network" style="zoom:75%;" />
 
 其中，第一层FC层用三个小的weights分别处理输入的三个向量，这里是希望能学到一种变换，将三个向量“归一化”到某一个合适的区域；具体如何约束还没想好，也许可以加loss。FC层数可定制，在config.py里文件已经写入。
 
